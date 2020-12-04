@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="per_image" type="id" />
+    <item name="reg_button" type="id" />
+    <item name="reg_username" type="id" />
+    <item name="reg_Email" type="id" />
+    <item name="reg_Password" type="id" />
+    <item name="regcon_Password" type="id" />
+    <item name="reg_Phone" type="id" />
+    <item name="gender_group" type="id" />
+    <item name="goto_logIn" type="id" />
+    <item name="reg_image" type="id" />
+</resources>
